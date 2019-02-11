@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "628022729043",
+    "firebase_url": "https://trip-planner-bd327.firebaseio.com",
+    "project_id": "trip-planner-bd327",
+    "storage_bucket": "trip-planner-bd327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628022729043:android:0bb3833b0e7e71bf",
+        "android_client_info": {
+          "package_name": "com.example.mostafa_pc.tripplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628022729043-0bgphg6t8rmoa1a3vtd06qp305v2reok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mostafa_pc.tripplanner",
+            "certificate_hash": "7ceb50e2ef91c4db3829646066d931d08799366a"
+          }
+        },
+        {
+          "client_id": "628022729043-ua23l5nea4lrrs6a6kr9k4fr7nanp3d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuySAA1uP1MNPCLZg6Ta0uQaQu_vJ1zCQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628022729043-ua23l5nea4lrrs6a6kr9k4fr7nanp3d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
